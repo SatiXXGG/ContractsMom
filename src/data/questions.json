@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Datos Personales",
+    "data": [
+      {
+        "subtitle": "Nombre",
+        "placeholder": "Sujei Gomez Hernandez..."
+      },
+      {
+        "subtitle": "Domicilio",
+        "placeholder": "San Eulogio #21 Col. Centro"
+      },
+      {
+        "subtitle": "Correo Electronico",
+        "placeholder": "example@example.com"
+      },
+      {
+        "subtitle": "Número de Telefono",
+        "placeholder": "33 3333 3333"
+      }
+    ]
+  },
+  {
+    "title": "Clausulas",
+    "data": [
+      {
+        "subtitle": "El Cliente declara que el día",
+        "placeholder": "25"
+      },
+      {
+        "subtitle": "Del mes de",
+        "placeholder": "Marzo"
+      },
+      {
+        "subtitle": "Del año",
+        "placeholder": "2033"
+      },
+      {
+        "subtitle": "Tendra un evento social el mismo que se llevara acabo en",
+        "placeholder": "Hotel RIU Palace"
+      },
+      {
+        "subtitle": "Con un horario de",
+        "placeholder": "x..."
+      },
+      {
+        "subtitle": "Equipo solicitado",
+        "placeholder": "Paquete 2..."
+      },
+      {
+        "subtitle": "Con un costo de",
+        "placeholder": "Paquete 2..."
+      },
+      {
+        "subtitle": "Y que cuenta con lo siguiente",
+        "placeholder": "Escribe Aquí...",
+        "textzone": true
+      }
+    ]
+  },
+
+  {
+    "title": "Formato de pago de renta del equipo",
+    "data": [
+      {
+        "subtitle": "El Sr(a)",
+        "placeholder": "Gael Vela"
+      },
+      {
+        "subtitle": "Pagará la cantidad de",
+        "placeholder": "$9999"
+      },
+      {
+        "subtitle": "Dando como anticipio la cantidad de",
+        "placeholder": "$999"
+      },
+      {
+        "subtitle": "Restando la cantidad de",
+        "placeholder": "$9000"
+      },
+      {
+        "subtitle": "Fecha del evento",
+        "placeholder": "10 de Marzo del 2033"
+      },
+
+
+      {
+        "subtitle": "Ciudad de",
+        "placeholder": "Guadalajara"
+      },
+
+      {
+        "subtitle": "A los dias",
+        "placeholder": "20"
+      },
+
+       {
+        "subtitle": "Del mes de",
+        "placeholder": "Marzo"
+      },
+
+      {
+        "subtitle": "Del año",
+        "placeholder": "2033"
+      }
+    ]
+  }
+]
